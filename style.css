@@ -1,0 +1,105 @@
+/* estilos generales */
+body {
+    font-family: 'Segoe UI', Arial, sans-serif;
+    margin: 30px;
+    padding: 0;
+    background-color: #0A0A0A;
+    line-height: 1.6;
+}
+
+/* navegación */
+nav {
+    background-color: #111111;
+    padding: 15px;
+    margin-bottom: 40px;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #F7F7F7;
+    font-size: 16px;
+}
+
+/* texto */
+p {
+    color: white;
+    text-align: justify;
+    font-size: 16px;
+    margin-bottom: 20px;
+}
+
+/* títulos */
+h1 {
+    color: #F7F7F7;
+    font-size: 42px;
+    margin-bottom: 20px;
+}
+
+h2 {
+    color: #F2EBEB;
+    margin-top: 60px;
+    margin-bottom: 20px;
+    font-size: 28px;
+}
+
+h3 {
+    color: #FFE0E0;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+/* imágenes */
+img {
+    display: block;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    border-radius: 6px;
+}
+
+/* secciones de proyectos */
+div {
+    margin-bottom: 30px;
+}
+
+/* enlaces */
+a {
+    color: #4da6ff;
+    font-size: 15px;
+}
+
+/* formulario */
+form {
+    margin-top: 30px;
+}
+
+label {
+    color: white;
+    font-size: 14px;
+}
+
+input {
+    padding: 6px;
+    margin-left: 10px;
+}
+
+/* footer */
+footer {
+    margin-top: 60px;
+    padding-top: 30px;
+    border-top: 1px solid #333;
+}
+
+footer a {
+    margin-right: 15px;
+}
